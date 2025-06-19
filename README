@@ -1,0 +1,4 @@
+For this test,
+the code uses proper organization URN for a company page that has been created as a test.
+However, LinkedIn requires full company verification for these API endpoints, which is beyond the scope of this test.
+The same flow works for a personal LinkedIn feed with an individual Person URN and the w_member_social scope, which I have verified locally.
